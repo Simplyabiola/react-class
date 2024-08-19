@@ -1,0 +1,24 @@
+{
+  "User": [
+    {
+      "id": "8def",
+      "username": "Abiola",
+      "email": "abiola@gmail.com",
+      "password": "@Abiola12"
+    },
+    {
+      "id": "f507",
+      "username": "BISI",
+      "email": "bisi@gmail.com",
+      "password": "@Bisi12"
+    },
+    {
+      "id": "16fe",
+      "username": "BISI",
+      "email": "bisi@gmail.com",
+      "password": "@Bisi12"
+    }
+  ],
+
+  "product":[]
+}

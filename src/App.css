@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+/* design inside todo assignment */
+
+mydiv{
+  width: 500px;
+  height:500px;
+  box-shadow: 282px;
+  margin-left: 400px;
+  margin-top: 100px;
+}
+
+input1{
+  width: 200px;
+  height: 35px;
+}
+
+
+input2{
+  width: 200px;
+  height: 35px;
+}
